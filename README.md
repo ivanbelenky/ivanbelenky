@@ -18,7 +18,5 @@ been learning bunch of shit, been drawing some more shit
 
 <br>
 
-
-
-## [P1P3](https://p1p3.com.ar) `--> if the project is interesting we'll grab it`
+## [P1P3](https://p1p3.com.ar) --> if the project is interesting we'll grab it
 we like to talk shop
