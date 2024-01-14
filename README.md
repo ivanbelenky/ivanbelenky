@@ -15,7 +15,3 @@ I have been shapeshifting all along the way. Trying to be a better h.b.
 
 been learning bunch of shit, been drawing some more shit
 
-
-## [P1P3](https://p1p3.com.ar) --> if the project is interesting we'll grab it
-
-we like to talk shop
