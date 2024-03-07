@@ -3,7 +3,7 @@
 
 ## **ivanbelenky** 
 
-- `electronics` --> `nuclear` --> `aerospace` --> `**software**`  
+- `electronics` --> `nuclear` --> `aerospace` --> **`software`**  
 - I have been shapeshifting all along the way. Trying to be a better h.b.
 - all things **enthusiast**
 - been learning bunch of shit, been drawing some more shit
